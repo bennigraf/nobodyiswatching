@@ -1,4 +1,4 @@
-# nobodyiswatching
+# Nobody Is Watching
 
 openframeworks + webcam + raspi-gpios – An art installation living in my toilet
 
