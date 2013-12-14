@@ -1,6 +1,6 @@
 # nobodyiswatching
 
-openframeworks + webcam + raspi-gpios – Art installation living in my toilet
+openframeworks + webcam + raspi-gpios – An art installation living in my toilet
 
 ## Needed:
 * Raspberry Pi
